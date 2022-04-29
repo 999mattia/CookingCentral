@@ -1,0 +1,259 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.ch",
+      "password": "$2a$10$YkFbz7nkfUtM64tKLMfPme2IOwuBEVCWXcGv75NP6BEdeV94eQ/TG",
+      "id": 1
+    },
+    {
+      "email": "mattia@mattia.ch",
+      "password": "$2a$10$bwqwR0YreA/UuHhRYVK/qeRT2eu4sSgD8yuHGzsvnfOi9fcEgwSra",
+      "id": 2
+    },
+    {
+      "email": "levin@levin.ch",
+      "password": "$2a$10$t/9F1O0t1UPl70kl2RFUkeOJSMsih/kW2xewiB4BRx9KXJTbSPJuO",
+      "id": 3
+    },
+    {
+      "email": "ilian@ilian.ch",
+      "password": "$2a$10$2TXY8sdKeciWdjAEHjz77.rs6gEN4Js.ckwMmOdjOq5iqRww7BRlC",
+      "id": 4
+    },
+    {
+      "email": "silvan@silvan.ch",
+      "password": "$2a$10$7Y6lzxPcUib5yO/SbL7AfeZN/PVKBT15jmshzK75W3VaCViabRxmy",
+      "id": 5
+    },
+    {
+      "email": "luc@luc.ch",
+      "password": "$2a$10$AaXEr1TG/Vc8cLy2UTseruaVgM/WkICeIso5f1/LQxuGqyib5bMTC",
+      "id": 6
+    },
+    {
+      "email": "kimi@kimi.ch",
+      "password": "$2a$10$oaTG8EeFJGPVnBCp3U.4Xu2x1c6UwHPQdcfLa06HGUd6huf1/ygsq",
+      "id": 7
+    },
+    {
+      "email": "nicolas@nicolas.ch",
+      "password": "$2a$10$EhFo86fNDBIORbdjfKWFnOtCDi9.ApPhVDpzMz3DOOkz0A7a0.pAK",
+      "id": 8
+    },
+    {
+      "email": "test@test.ch",
+      "password": "$2a$10$/JCWjnhJ8pSCaAL622PZg.zAMWMHhtgKRXT2pO6jzePqYUtmxK2YS",
+      "id": 9
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Hamburger",
+      "ingredients": "1 pound ground lean beef, 1 large egg, ½ cup minced onion, ¼ cup fine dried bread crumbs, 1 tablespoon Worcestershire, 1 or 2 cloves garlic peeled and minced, About 1/2 teaspoon salt, About 1/4 teaspoon pepper, 4 hamburger buns (4 in. wide) split, About 1/4 cup mayonnaise, About 1/4 cup ketchup, 4 iceberg lettuce leaves rinsed and crisped, 1 firm-ripe tomato cored and thinly sliced, 4 thin slices red onion.",
+      "instructions": "Step 1: In a bowl, mix ground beef, egg, onion, bread crumbs, Worcestershire, garlic, 1/2 teaspoon salt, and 1/4 teaspoon pepper until well blended. Divide mixture into four equal portions and shape each into a patty about 4 inches wide. Step 2: Lay burgers on an oiled barbecue grill over a solid bed of hot coals or high heat on a gas grill (you can hold your hand at grill level only 2 to 3 seconds); close lid on gas grill. Cook burgers, turning once, until browned on both sides and no longer pink inside (cut to test), 7 to 8 minutes total. Remove from grill. Step 3: Lay buns, cut side down, on grill and cook until lightly toasted, 30 seconds to 1 minute. Step 4: Spread mayonnaise and ketchup on bun bottoms. Add lettuce, tomato, burger, onion, and salt and pepper to taste. Set bun tops in place.",
+      "userId": 2,
+      "id": 1,
+      "imgURL": "/ea78123a-65de-4c51-9c70-9556e91c12d3.jpeg"
+    },
+    {
+      "name": "Pizza",
+      "imgURL": "/cf5c2f15-11ff-4799-8b0c-037dac9ae0b3.jpeg",
+      "ingredients": "300g strong bread flour, 1 tsp instant yeast (from a sachet or a tub), 1 tsp salt, 1 tbsp olive oil, plus extra for drizzling, 100ml passata, handful fresh basil or 1 tsp dried, 1 garlic clove crushed, 125g ball mozzarella sliced, handful grated or shaved parmesan (or vegetarian alternative), handful of cherry tomatoes halved, handful of basil leaves (optional).",
+      "instructions": "Step 1: Make the base: Put the flour into a large bowl, then stir in the yeast and salt. Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft, fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside. You can leave the dough to rise if you like, but it’s not essential for a thin crust. Step 2: Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste. Leave to stand at room temperature while you get on with shaping the base. Step 3: Roll out the dough: if you’ve let the dough rise, give it a quick knead, then split into two balls. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets. Step 4: Top and bake: heat the oven to 240C/220C fan/gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf. Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using. Repeat step for remaining pizza.",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "Chocolate cake",
+      "imgURL": "/4a2948af-c7fc-4c3d-b6b4-2ef61d6f560f.jpeg",
+      "ingredients": "Butter and flour for coating and dusting the cake pan, 3 cups all-purpose flour, 3 cups granulated sugar, 1 1/2 cups unsweetened cocoa powder, 1 tablespoon baking soda, 1 1/2 teaspoons baking powder, 1 1/2 teaspoons salt, 4 large eggs, 1 1/2 cups buttermilk, 1 1/2 cups warm water, 1/2 cup vegetable oil, 2 teaspoons vanilla extract.",
+      "instructions": "Step 1: Preheat oven to 350 degrees Fahrenheit. Butter three 9-inch cake rounds. Dust with flour and tap out the excess. Step 2: Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined. Step 3: Add eggs, buttermilk, warm water, oil, and vanilla. Beat on a medium speed until smooth. This should take just a couple of minutes. Step 4: Divide batter among the three pans. I found that it took just over 3 cups of the batter to divide it evenly. Step 5: Bake for 30-35 minutes in a 350 degree oven until a toothpick inserted into the center comes out clean. Step 6: Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely. Step 7: Frost with your favorite frosting and enjoy!",
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "imgURL": "/77b4a401-3c96-4a6a-a50d-d5f5a5c9b5f6.jpeg",
+      "ingredients": "100g pancetta, 50g pecorino cheese, 50g parmesan, 3 large eggs, 350g spaghetti, 2 plump garlic cloves peeled and left whole, 50g unsalted butter, sea salt and freshly ground black pepper.",
+      "instructions": "Step 1: Put a large saucepan of water on to boil. Step 2: Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together. Step 3: Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside. Step 4: Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked). Step 5: Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it. Step 6: While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic. Step 7: Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard. Step 8: Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet. Step 9: Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later. Step 10: Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated. Step 11: Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed. Step 12: Use a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived.",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "name": "Wiener Schnitzel",
+      "imgURL": "/ef80dc1f-c2e7-424a-bff2-9214b107fff3.jpeg",
+      "ingredients": "4 (5-ounce) veal cutlets (or chicken or pork cutlets), 1/4 cup all-purpose (or brown rice flour), 1/2 teaspoon kosher salt, 2 large eggs well beaten, 1/2 cup breadcrumbs, Oil or lard for frying, 4 slices lemon",
+      "instructions": "Step 1: Gather the ingredients. Step 2: While pounding the meat, place the cutlets between sheets of plastic wrap for easier cleanup. Use a heavy, flat-surfaced pan to pound if you don’t have a meat mallet. Step 3: Pound the meat evenly to 1/4-inch thickness for best results. Step 4: To bread the schnitzels, set up 3 shallow dishes: Mix the flour and salt in the first dish, the beaten eggs in the second dish, and the breadcrumbs in the third dish. Step 5: In a large skillet, heat at least 1/4-inch of oil to 350 F. This takes about 8 minutes. Step 6: Working one at a time, dredge cutlets first in flour until the surface is completely dry. Step 7: Dip in egg to coat, allow the excess to drip off for a few seconds. Step 8: Then roll quickly in the breadcrumbs until coated. Do not press the breadcrumbs into the meat, as this will moisten them and not make for a crispy coating. The crust should not adhere completely but form a loose shell around the schnitzel. Step 9: Immediately place meat in the pan with the hot oil. Do not crowd the pan. Cook the schnitzel in batches, if necessary. Just make sure to allow enough time between batches to allow the oil to come back up to 350 F. Step 10: Fry the schnitzel for 2 to 3 minutes on one side, until golden brown. Make sure the breaded meat “swims” in fat. Contrary to instinct, the breading will take on less oil than if the meat is sticking to the pan. Also, the breadcrumb topping has a chance to puff up a little, and your cleanup is easier. You may want to swish them around a little with your fork to make sure they are not sticking to the pan. Step 11: Turn them over once and fry an additional 2 to 3 minutes or until both sides are golden brown and the meat registers an internal temperature of 145 F. Remove from pan and allow the oil to drain off. Step 12: Serve in the traditional manner with lemon slices, as well as potato salad, cucumber salad, or fries. Enjoy!",
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "name": "Fondue",
+      "imgURL": "/9008b69b-be2c-4dd6-b7a8-30052581c635.jpeg",
+      "ingredients": "1 garlic clove halved, 1 pound Gruyère cheese grated, 1/2 pound Emmentaler cheese or other Swiss cheese grated, 1 cup dry white wine, 1 tablespoon plus 1 teaspoon cornstarch, 1 teaspoon fresh lemon juice, 1 1/2 tablespoons kirsch, Freshly ground pepper, Freshly grated nutmeg.",
+      "instructions": "Step 1: Rub the inside of a cheese fondue pot or medium enameled cast-iron casserole with the garlic clove; discard the garlic. Step 2: Combine the grated Gruyère and Emmentaler with the wine, cornstarch and lemon juice in the fondue pot and cook over moderate heat, stirring occasionally, until the cheeses begin to melt, about 5 minutes. Step 3: Reduce heat to low. Add the kirsch and a generous pinch each of pepper and nutmeg and cook, stirring gently, until creamy and smooth, about 3 minutes; don't overcook the fondue or it will get stringy. Serve at once.",
+      "userId": 7,
+      "id": 6
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "imgURL": "/da64c8be-5e1c-43d3-bc76-fe0e9afeeb93.jpeg",
+      "ingredients": "1 tbsp olive oil, 4 rashers smoked streaky bacon finely chopped, 2 medium onions finely chopped, 2 carrots trimmed and finely chopped, 2 celery sticks finely chopped, 2 garlic cloves finely chopped, 2-3 sprigs rosemary leaves picked and finely chopped, 500g beef mince, 2 x 400g tins plum tomatoes, small pack basil leaves picked ¾ finely chopped and the rest left whole for garnish, 1 tsp dried oregano, 2 fresh bay leaves, 2 tbsp tomato purée, 1 beef stock cube, 1 red chilli deseeded and finely chopped (optional), 125ml red wine, 6 cherry tomatoes sliced in half, 75g parmesan grated plus extra to serve, 400g spaghetti, crusty bread to serve (optional)",
+      "instructions": "Step 1: Put a large saucepan on a medium heat and add 1 tbsp olive oil. Step 2: Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp. Step 3: Reduce the heat and add the 2 onions, 2 carrots, 2 celery sticks, 2 garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins. Stir the veg often until it softens. Step 4: Increase the heat to medium-high, add 500g beef mince and cook stirring for 3-4 mins until the meat is browned all over. Step 5: Add 2 tins plum tomatoes, the finely chopped leaves from ¾ small pack basil, 1 tsp dried oregano, 2 bay leaves, 2 tbsp tomato purée, 1 beef stock cube, 1 deseeded and finely chopped red chilli (if using), 125ml red wine and 6 halved cherry tomatoes. Stir with a wooden spoon, breaking up the plum tomatoes. Step 6: Bring to the boil, reduce to a gentle simmer and cover with a lid. Cook for 1 hr 15 mins stirring occasionally, until you have a rich, thick sauce. Step 7: Add the 75g grated parmesan, check the seasoning and stir. Step 8: When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions. Step 9: Drain the spaghetti and either stir into the bolognese sauce, or serve the sauce on top. Serve with more grated parmesan, the remaining basil leaves and crusty bread, if you like.",
+      "userId": 8,
+      "id": 7
+    },
+    {
+      "name": "Pancakes",
+      "imgURL": "/6f95e1a6-2f6a-4368-890d-c7d6cc5318db.jpeg",
+      "ingredients": "1 ½ cups all-purpose flour, 3 ½ teaspoons baking powder, ¼ teaspoon salt, or more to taste, 1 tablespoon white sugar, 1 ¼ cups milk, 1 egg, 3 tablespoons butter, melted.",
+      "instructions": "Step 1: In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth. Step 2: Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot. ",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Banana split",
+      "imgURL": "/a316db9d-bcc7-4644-953b-b4221111f9d8.jpeg",
+      "ingredients": "1 medium banana, peeled and split lengthwise, 1 scoop each vanilla, chocolate and strawberry ice cream, 2 tablespoons sliced fresh strawberries or 1 tablespoon strawberry ice cream topping, 2 tablespoons pineapple chunks or 1 tablespoon pineapple ice cream topping, 2 tablespoons whipped cream, 1 tablespoon chopped peanuts, 1 tablespoon chocolate syrup, 2 maraschino cherries with stems.",
+      "instructions": "Step 1: Place banana in a dessert dish; place scoops of ice cream between banana. Top with remaining ingredients. Serve immediately.",
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "name": "Strawberry cheesecake",
+      "imgURL": "/ef564bc6-6266-44e7-a7ef-116fe553eb5f.jpeg",
+      "ingredients": "250g digestive biscuits, 100g butter melted, 1 vanilla pod, 600g full fat soft cheese, 100g icing sugar, 284ml pot of double cream, 400g punnet of strawberries halved, 25g icing sugar.",
+      "instructions": "Step 1: To make the base, butter and line a 23cm loose-bottomed tin with baking parchment. Put the digestive biscuits in a plastic food bag and crush to crumbs using a rolling pin. Transfer the crumbs to a bowl, then pour over the melted butter. Mix thoroughly until the crumbs are completely coated. Tip them into the prepared tin and press firmly down into the base to create an even layer. Chill in the fridge for 1 hr to set firmly. Step 2: Slice the vanilla pod in half lengthways, leaving the tip intact, so that the two halves are still joined. Holding onto the tip of the pod, scrape out the seeds using the back of a kitchen knife. Step 3: Pour the double cream into a bowl and whisk with an electric mixer until it’s just starting to thicken to soft peaks. Place the soft cheese, icing sugar and the vanilla seeds in a separate bowl, then beat for 2 mins with an electric mixer until smooth and starting to thicken, it will get thin and then start to thicken again. Tip in the double cream and fold it into the soft cheese mix. You’re looking for it to be thickened enough to hold its shape when you tip a spoon of it upside down. If it’s not thick enough, continue to whisk. Spoon onto the biscuit base, starting from the edges and working inwards, making sure that there are no air bubbles. Smooth the top of the cheesecake down with the back of a dessert spoon or spatula. Leave to set in the fridge overnight. Step 4: Bring the cheesecake to room temperature about 30 mins before serving. To remove it from the tin, place the base on top of a can, then gradually pull the sides of the tin down. Slip the cake onto a serving plate, removing the lining paper and base. Purée half the strawberries in a blender or food processor with the icing sugar and 1 tsp water, then sieve. Pile the remaining strawberries onto the cake, and pour the purée over the top.",
+      "userId": 4,
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 2,
+      "recipeId": 1,
+      "title": "Yummyy",
+      "text": "very tasty"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "recipeId": 2,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "recipeId": 3,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "recipeId": 4,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "recipeId": 5,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "recipeId": 6,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "recipeId": 7,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "recipeId": 8,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 9,
+      "userId": 4,
+      "recipeId": 9,
+      "title": "Yummy",
+      "text": "very tasty"
+    },
+    {
+      "id": 10,
+      "userId": 5,
+      "recipeId": 10,
+      "title": "Yummy",
+      "text": "very tasty"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "text": "Meine Grossmutter hat mich enterbt wegen diesen Rezepten",
+      "userId": 8,
+      "createdAt": "27-04 02:38"
+    },
+    {
+      "id": 2,
+      "text": "f",
+      "userId": 2,
+      "createdAt": "27-04 02:39"
+    },
+    {
+      "id": 3,
+      "text": "f",
+      "userId": 3,
+      "createdAt": "27-04 02:40"
+    },
+    {
+      "id": 4,
+      "text": "f",
+      "userId": 4,
+      "createdAt": "27-04 02:40"
+    },
+    {
+      "id": 5,
+      "text": "f",
+      "userId": 5,
+      "createdAt": "27-04 02:41"
+    },
+    {
+      "id": 6,
+      "text": "f",
+      "userId": 6,
+      "createdAt": "27-04 02:43"
+    },
+    {
+      "id": 7,
+      "text": "f",
+      "userId": 7,
+      "createdAt": "27-04 02:45"
+    },
+    {
+      "id": 8,
+      "text": "test",
+      "userId": 2,
+      "createdAt": "29-04 01:35"
+    },
+    {
+      "id": 9,
+      "text": "test",
+      "userId": 9,
+      "createdAt": "29-04 01:35"
+    }
+  ]
+}
